@@ -40,7 +40,7 @@ function handleSubmit(event) {
     };
 
     console.log(formData);
-    alert("Form submitted successfully!");
+    alert("Form submitted successfully! check console to see form Data");
 }
 // function to validate email
 function validateEmail(email) {
